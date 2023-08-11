@@ -19,7 +19,7 @@ npm i gsap_directive
 
 main.ts
 ```bash
-import gsap_directive from gsap_directive';
+import gsap_directive from 'gsap_directive/src';
 app.use(gsap_directive);
 ```
 
