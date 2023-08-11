@@ -1,0 +1,25 @@
+{
+  "name": "gsap_directive",
+  "version": "1.0.4",
+  "description": "Vue directive for GSAP animations with ScrollTrigger",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "your-git-repo-url"
+  },
+  "keywords": [
+    "vue",
+    "gsap",
+    "scrolltrigger",
+    "directive"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "gsap": "^3.0.0",
+    "vue": "^2.0.0"
+  }
+}
